@@ -1,7 +1,7 @@
 # ToDo_List 📃
 🔰 A beautiful task list with JavaScript 
 # Preview :
-![Screenshot (39)](https://github.com/hamedaskari/ToDo_List/assets/63067445/4f8e5013-4c88-4d9e-9576-50f012a4383c)
+![Screenshot (41)](https://github.com/hamedaskari/ToDo_List/assets/63067445/e102cd90-6d58-4904-8b3e-883d66a956af)
 
 ## Live Demo
 
