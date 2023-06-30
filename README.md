@@ -8,6 +8,8 @@
 **You Can See Live Demo On :** [Here](https://raw.githack.com/hamedaskari/ToDo_List/master/index.html)
 
 # Technologies:
-   - **HTML**
-   - **CSS**
-   - **JS**
+<div style="height: 60px;">
+    <img  alt="html" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+    <img  alt="css" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img  alt="javascript" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+</div>
