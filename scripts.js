@@ -1,4 +1,5 @@
 // // Selectors
+
 let todoInput, todoButton, todoList, filter;
 const $ = document;
 todoInput = $.querySelector(".todo-input");
